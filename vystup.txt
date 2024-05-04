@@ -1,1 +1,0 @@
-Nazov: aaa	 Autor: peter	 Rok Vydania: 2010	 Typ: roman - socialny	 Dostupne: true
