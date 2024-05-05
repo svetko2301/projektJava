@@ -24,7 +24,7 @@ class databaza {
         prvok = new kniha[pocetPrvkov];
         sc = new Scanner(System.in);
         poslednaKniha = 0;
-        books = new ArrayList<>(); // Inicializácia zoznamu kníh
+        books = new ArrayList<>();
     }
 
     public void loadFromDatabase() {
