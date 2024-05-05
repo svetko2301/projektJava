@@ -11,7 +11,7 @@ class kniha {
     }
 
     public kniha(String title, String author, int year, boolean available, String genre) {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 
